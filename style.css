@@ -3,13 +3,12 @@
 body {
   font-family: "Poiret One";
   color:red;
-    background-image: url("https://farm6.staticflickr.com
-    /5274/5845325181_2c1ca164a7_b.jpg");
+  background-image: url("net.jpg");
     background-size: cover;
 
 }
 
-p{
+h4{
   width: 75%;
   height: 20%;
 }
