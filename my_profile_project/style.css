@@ -1,0 +1,26 @@
+@import url(http://fonts.googleapis.com/css?family=Oswald);
+@import url(http://fonts.googleapis.com/css?family=Poiret+One);
+body {
+  font-family: "Poiret One";
+  color:red;
+    background-image: url("https://farm6.staticflickr.com
+    /5274/5845325181_2c1ca164a7_b.jpg");
+    background-size: cover;
+
+}
+
+p{
+  width: 75%;
+  height: 20%;
+}
+h1{font-family:"Oswald";}
+img{border: 10px solid red;}
+
+#worktag {color:blue;}
+#worktag {font-family: "Oswald";}
+
+.bluetext {
+  color:blue;
+
+  /*heres a comment in css*/
+}
